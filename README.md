@@ -77,12 +77,10 @@ plt.show()
 # CLUSTERING: 
 ![image](https://github.com/ssnithyaasri/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119122478/fed54bef-a836-447c-94bb-7c0733974feb)
 
-# Result:
-Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
-
-
-
-
-
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
+
+
+
+
+
