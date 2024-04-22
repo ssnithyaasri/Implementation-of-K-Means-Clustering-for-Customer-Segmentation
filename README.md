@@ -74,6 +74,16 @@ plt.show()
 ![image](https://github.com/ssnithyaasri/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119122478/950ceae7-86d5-456e-a5c3-deec156c435f)
 # CENTROID AND LABEL VALUES: 
 ![image](https://github.com/ssnithyaasri/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119122478/ced2544b-e339-47ee-8ead-61983c0e4668)
+
+
+
+
+
+
+
+
+
+
 # CLUSTERING: 
 ![image](https://github.com/ssnithyaasri/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119122478/fed54bef-a836-447c-94bb-7c0733974feb)
 
