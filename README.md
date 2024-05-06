@@ -9,9 +9,13 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Algorithm
 1. Import the necessary packages
+ 
 2. Insert the dataset to perform the k - means clustering
-3. perform k - means clustering on the dataset
+3. 
+4. perform k - means clustering on the dataset
+5. 
 4.Then print the centroids and labels
+
 5.Plot graph and display the clusters
 
  
